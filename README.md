@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Worked on world wide projects , distributed teams in different industries.
 
-## My Experince 
+## My Experience 
 
 | My Experience  |   |   |   |   |
 |---|---|---|---|---|
