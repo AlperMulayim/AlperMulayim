@@ -27,6 +27,22 @@ Here are some ideas to get you started:
 | Microservices |Docker   | Agile  |Computer Vision  | Flutter  |
 | OpenCV |Weka   | Scrum  |Spring |  |
 
+## Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/alpermulayim/">
+    <img src= https://user-images.githubusercontent.com/12942688/200041950-f7b816b3-5500-4284-be40-8c6d039a6e0d.png width="50" height="50"  > 
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://www.youtube.com/channel/UCnE8jNH1QBil0gUs_meWymw">
+    <img src=https://user-images.githubusercontent.com/12942688/200041811-50f1ffc9-0a98-4fd8-9c9f-82bc87ef1638.png width="50" height="50"  > 
+  </a> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://www.credly.com/users/alper-mulayim/badges">
+    <img src=https://user-images.githubusercontent.com/12942688/200042749-f17a8240-5b4d-41df-94bf-96f298155a08.png  width="80" height="50"  > 
+  </a> 
+</p>
+
+
 
 ## Undergraduate Projects Demo
  
@@ -43,20 +59,6 @@ Studied to design measurement equipment of physical therapy unit and
 reporting system for therapist , using
 Nintendo Wii Remote for postural measurements of mild paralysis patients.
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alpermulayim/">
-    <img src= https://user-images.githubusercontent.com/12942688/200041950-f7b816b3-5500-4284-be40-8c6d039a6e0d.png width="50" height="50"  > 
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://www.youtube.com/channel/UCnE8jNH1QBil0gUs_meWymw">
-    <img src=https://user-images.githubusercontent.com/12942688/200041811-50f1ffc9-0a98-4fd8-9c9f-82bc87ef1638.png width="50" height="50"  > 
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://www.credly.com/users/alper-mulayim/badges">
-    <img src=https://user-images.githubusercontent.com/12942688/200042749-f17a8240-5b4d-41df-94bf-96f298155a08.png  width="80" height="50"  > 
-  </a> 
-</p>
 
 
 
