@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 | Spring Data JPA  | MSSQL  |  MySQL | MongoDB  |  Azure DevOps |
 |Azure  <br> Resource Management   |Jira   | Typescript  | StoryBook js  | Micro frontend  |
 | Microservices |Docker   | Agile  |Computer Vision  | Flutter  |
-| OpenCV |Weka   | Scrum  |Spring |  |
+| OpenCV |Weka   | Scrum  |Spring |  MS Graph|
 
 ## Connect with Me
 <p align="center">
