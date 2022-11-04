@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **AlperMulayim/AlperMulayim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,51 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Alper Mulayim</h1>
+<h3 align="center">Full-Stack Developer</h3>
+
+## My Experince 
+
+| My Experience  |   |   |   |   |
+|---|---|---|---|---|
+|  Java | Spring Boot  | Angular  |Azure   |  AWS  |
+| Spring Data JPA  | MSSQL  |  MySQL | MongoDB  |  Azure DevOps |
+|Azure  <br> Resource Management   |Jira   | Typescript  | StoryBook js  | Micro frontend  |
+| Microservices |Docker   | Agile  |Computer Vision  | Flutter  |
+| OpenCV |Weka   | Scrum  |Spring |  |
+
+
+## Undergraduate Projects Demo
+ 
+### Hyperspectral Remote Sensed Images Pixel Classification with Attribute Profiles
+[Demo](https://www.youtube.com/watch?v=fUK2as299RI&t=95s)
+Studied for hyperspectral remote sensed images pixel classification with
+attribute profiles for generating land use mapping with binary partition trees.
+Implemented with Java and WEKA.
+
+
+###  Postural Measurement of Mild Paralysis Patients
+[Demo](https://www.youtube.com/watch?v=3a5rRi6RoBY) 
+Studied to design measurement equipment of physical therapy unit and
+reporting system for therapist , using
+Nintendo Wii Remote for postural measurements of mild paralysis patients.
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alpermulayim/">
+    <img src= https://user-images.githubusercontent.com/12942688/200041950-f7b816b3-5500-4284-be40-8c6d039a6e0d.png width="50" height="50"  > 
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://www.youtube.com/channel/UCnE8jNH1QBil0gUs_meWymw">
+    <img src=https://user-images.githubusercontent.com/12942688/200041811-50f1ffc9-0a98-4fd8-9c9f-82bc87ef1638.png width="50" height="50"  > 
+  </a> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://www.credly.com/users/alper-mulayim/badges">
+    <img src=https://user-images.githubusercontent.com/12942688/200042749-f17a8240-5b4d-41df-94bf-96f298155a08.png  width="80" height="50"  > 
+  </a> 
+</p>
+
+
+
+
