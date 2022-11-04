@@ -44,7 +44,7 @@ Worked on world wide projects , distributed teams in different industries.
   </a> 
 </p>
 
-
+<!--
 
 ## Undergraduate Projects Demo
  
@@ -62,6 +62,6 @@ reporting system for therapist , using
 Nintendo Wii Remote for postural measurements of mild paralysis patients.
 
 
-
+-->
 
 
