@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Alper Mulayim</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1>Hi 👋, I'm Alper Mulayim</h1>
+<h3>Full-Stack Developer</h3>
+
+Worked on world wide projects , distributed teams in different industries.
 
 ## My Experince 
 
@@ -28,7 +30,7 @@ Here are some ideas to get you started:
 | OpenCV |Weka   | Scrum  |Spring |  MS Graph|
 
 ## Connect with Me
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/alpermulayim/">
     <img src= https://user-images.githubusercontent.com/12942688/200041950-f7b816b3-5500-4284-be40-8c6d039a6e0d.png width="50" height="50"  > 
   </a>
