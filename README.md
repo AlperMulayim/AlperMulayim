@@ -24,7 +24,7 @@ Worked on world wide projects , distributed teams in different industries.
 | My Experience  |   |   |   |   |
 |---|---|---|---|---|
 |  Java | Spring Boot  | Angular  |Azure   |  AWS  |
-| Spring Data JPA  | MSSQL  |  MySQL | MongoDB  |  Azure DevOps |
+| Spring Data JPA  | MSSQL  |  MySQL | RabbitMQ  |  Azure DevOps |
 |Azure  <br> Resource Management   |Jira   | Typescript  | StoryBook js  | Micro frontend  |
 | Microservices |Docker   | Agile  |Computer Vision  | Flutter  |
 | OpenCV |Weka   | Scrum  |Spring |  MS Graph|
