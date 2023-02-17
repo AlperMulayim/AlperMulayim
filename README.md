@@ -27,7 +27,7 @@ Worked on world wide projects , distributed teams in different industries.
 | Spring Data JPA  | MSSQL  |  MySQL | RabbitMQ  |  Azure DevOps |
 |Azure  <br> Resource Management   |Jira   | Typescript  | StoryBook js  | Micro frontend  |
 | Microservices |Docker   | Agile  |Computer Vision  | Flutter  |
-| OpenCV |Weka   | Scrum  |Spring |  MS Graph|
+| OpenCV |Weka   | Scrum  | MongoDB |  MS Graph|
 
 ## Connect with Me
 <p>
