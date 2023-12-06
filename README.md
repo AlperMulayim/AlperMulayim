@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>Hi 👋, I'm Alper Mulayim</h1>
-<h3>Full-Stack Developer</h3>
-
-Worked on world wide projects , distributed teams in different industries for different clients as a full-stack developer.
-<br /> Experienced implement, design and develop specific solutions and cloud responsibilities.
+<h3>Full-Stack Java Developer</h3>
 
 ## My Experience 
 
