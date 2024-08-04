@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi 👋, I'm Alper Mulayim</h1>
-<h3>Full-Stack Java Developer</h3>
-
+<!-- <h1>Hi 👋, I'm Alper Mulayim</h1>
+     <h3>Full-Stack Java Developer</h3>
+-->
 ## My Experience 
 
 | My Experience  |   |   |   |   |
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 |  Java | Spring Boot  | Angular  |Azure   |  AWS  |
 | Spring Data JPA  | MSSQL  |  MySQL | RabbitMQ  |  Azure DevOps |
 |Azure  <br> Resource Management   |Jira   | Typescript  | StoryBook js  | Micro frontend  |
-| Microservices |Docker   | Agile  |Computer Vision  | Flutter  |
+| Microservices |Docker   | Agile  |Computer Vision  | Kafka  |
 | OpenCV |Weka   | Scrum  | MongoDB |  MS Graph|
 
 ## Connect with Me
