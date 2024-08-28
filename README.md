@@ -39,7 +39,7 @@ I will be happy to share my experience, skills and learn the details about posit
 |---|---|---|---|---|
 |  Java | Spring Boot  | Angular  |Azure   |  AWS  |
 | Spring Data JPA  | MSSQL  |  MySQL | RabbitMQ  |  Azure DevOps |
-|Azure  <br> Resource Management   |Jira   | Typescript  | StoryBook js  | Micro frontend  |
+|Azure  <br> Resource Management   |Jira   | Typescript  | StoryBook js  | Liquibase  |
 | Microservices |Docker   | Agile  |Computer Vision  | Kafka  |
 | OpenCV |Weka   | Scrum  | MongoDB |  MS Graph|
 
