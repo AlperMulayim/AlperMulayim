@@ -35,13 +35,9 @@ I will be happy to share my experience, skills and learn the details about posit
 
 ## My Experience 
 
-| My Experience  |   |   |   |   |
-|---|---|---|---|---|
-|  Java | Spring Boot  | Angular  |Azure   |  AWS  |
-| Spring Data JPA  | MSSQL  |  MySQL | RabbitMQ  |  Azure DevOps |
-|Azure  <br> Resource Management   |Jira   | Typescript  | StoryBook js  | Liquibase  |
-| Microservices |Docker   | Agile  |Computer Vision  | Kafka  |
-| OpenCV |Weka   | Scrum  | MongoDB |  MS Graph|
+
+Java | Java 8 | Java 17 | Java 21 | Spring Boot | Spring Framework | Azure | Azure DevOps | Terraform | Scrum | Agile | JIRA | Restful Apis | MySql | MongoDB | GraphQL | JUnit 5 | Mockito | MockMvc | Jasmine | IAC | CI | CD | Kafka | RabbitMQ | Kubernetes | Docker | MsGraph | Teams Bots | AWS | Microservices | Microfrontends | Typescript | Git
+
 
 ## Connect with Me
 <p>
