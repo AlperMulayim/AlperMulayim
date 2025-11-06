@@ -35,8 +35,7 @@ I will be happy to share my experience, skills and learn the details about posit
 
 ## My Experience 
 
-
-Java | Java 8 | Java 17 | Java 21 | Spring Boot | Spring Framework | Azure | Azure DevOps | Terraform | Scrum | Agile | JIRA | Restful Apis | MySql | MongoDB | GraphQL | JUnit 5 | Mockito | MockMvc | Jasmine | IAC | CI | CD | Kafka | RabbitMQ | Kubernetes | Docker | MsGraph | Teams Bots | AWS | Microservices | Microfrontends | Typescript | Git
+Java(8-17-21-24) | Spring Boot | Angular 19 | Spring Framework | Azure | Azure DevOps | AWS | TypeScript | Terraform | Scrum | Agile | JIRA | REST APIs | MySQL | MongoDB | GraphQL | JUnit 5 | Mockito | MockMvc | Jasmine | IAC | CI | CD | Kafka | RabbitMQ | Kubernetes | Docker | Microsoft Graph | Teams Bots | Microservices | Microfrontends | Git | GitHub Actions | Spring AI | Spring Batch | Spring Data JPA | Spring Security |  OAuth2 | Spring AOP | Spring Data Stream | Spring Boot Starters | Spring Cloud | Spring Boot Test | Spring Web | Flyway | Liquibase | Testcontainers | Keycloak | Redis | Railway | Taiga UI
 
 
 ## Connect with Me
