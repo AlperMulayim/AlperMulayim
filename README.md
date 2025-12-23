@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- <h1>Hi 👋, I'm Alper Mulayim</h1>
      <h3>Full-Stack Java Developer</h3>
 -->
-Hello everyone - I’m looking for new opportunities! 🌟 <br>
+
 💻 I'm Full Stack Java Developer, Software Engineer <br>
 experienced and expertise in Java, Spring Boot, Angular and Azure. <br>
 
